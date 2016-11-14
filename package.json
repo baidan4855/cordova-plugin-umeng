@@ -1,0 +1,21 @@
+{
+  "name": "cordova-plugin-umeng",
+  "version": "1.0.0",
+  "cordova": {
+    "id": "cordova-plugin-umeng",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "description": "Cordova Crash Reporter",
+  "repository": "https://github.com/baidan4855/cordova-plugin-umeng.git",
+  "issue": "https://github.com/baidan4855/cordova-plugin-umeng/issues",
+  "keywords": [
+    "cordova",
+    "cordova-plugin",
+    "umeng"
+  ],
+  "author": "jackjiang",
+  "license": "MIT"
+}
